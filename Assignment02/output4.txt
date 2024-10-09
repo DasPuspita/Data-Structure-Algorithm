@@ -1,0 +1,14 @@
+From Motijheel to Motijheel : 0
+From Motijheel to A : 0
+From Motijheel to B : 1
+From Motijheel to C : 2
+From Motijheel to D : 3
+From Motijheel to E : 4
+From Motijheel to F : 7
+From Motijheel to G : 8
+From Motijheel to H : 1
+From Motijheel to I : 8
+From Motijheel to J : 7
+From Motijheel to K : 10
+From Motijheel to L : 13
+From Motijheel to MOGHBAZAR : 6
